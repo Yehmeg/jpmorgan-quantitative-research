@@ -110,6 +110,7 @@ J.P.-Morgan-/
 │   ├── project_collage.png
 │   └── completion_certificate.pdf
 │
+├── LICENSE
 ├── requirements.txt
 └── README.md
 ```
@@ -143,7 +144,11 @@ J.P.-Morgan-/
 
 # 📷 Project Highlights
 
-> Add your project collage here.
+## 📷 Project Overview
+
+<p align="center">
+  <img src="Images/collage.png" width="900">
+</p>
 
 ```markdown
 ![Project Overview](images/project_collage.png)
@@ -179,6 +184,13 @@ Run each notebook in sequence:
 4. Task 4 – FICO Quantization
 
 ---
+## 📈 Key Outcomes
+
+- Forecasted natural gas prices using trend and seasonal modeling.
+- Built a storage contract pricing engine based on injection and withdrawal schedules.
+- Developed a Probability of Default (PD) prediction model using Logistic Regression and Random Forest.
+- Applied Dynamic Programming with Maximum Log-Likelihood optimization to generate optimal FICO score buckets.
+- Estimated expected loan losses using predicted default probabilities.
 
 # 🎓 Certificate
 
