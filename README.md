@@ -98,11 +98,10 @@ This approach creates an optimal rating system suitable for future credit risk m
 J.P.-Morgan-/
 │
 ├── notebooks/
-│   ├── task1.ipynb
-│   ├── task2.ipynb
-│   ├── task3.ipynb
-│   └── task4.ipynb
-│
+│   ├── 01_natural_gas_price_forecasting.ipynb
+│   ├── 02_storage_contract_pricing.ipynb
+│   ├── 03_probability_of_default.ipynb
+│   └── 04_fico_score_quantization.ipynb
 ├── data/
 │   ├── Nat_Gas.csv
 │   └── Task3_4_Loan_Data.csv
@@ -157,7 +156,7 @@ J.P.-Morgan-/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/J.P.-Morgan-.git
+git clone https://github.com/Yehmeg/jpmorgan-quantitative-research.git
 ```
 
 Install the required packages:
